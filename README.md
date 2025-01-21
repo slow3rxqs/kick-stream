@@ -1,2 +1,2 @@
 # kick-stream
-Kick allows broadcasters to share automatic broadcasts on the discord platform
+Allows automatic stream notification sharing on the Discord platform
