@@ -1,0 +1,25 @@
+{
+  "name": "kick-stream",
+  "version": "0.0.4",
+  "description": "Kick allows broadcasters to share automatic broadcasts on the discord platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slow3rrxq/kick-stream.git"
+  },
+  "keywords": [
+    "stream-kick",
+    "kick",
+    "stream",
+    "notification"
+  ],
+  "author": "slow3rxq",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/slow3rrxq/kick-stream/issues"
+  },
+  "homepage": "https://github.com/slow3rrxq/kick-stream#readme"
+}
